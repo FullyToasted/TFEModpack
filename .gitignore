@@ -1,0 +1,13 @@
+# Ignore everything:
+/*
+/*/
+
+# Except for the these files/directories:
+!.gitignore
+!config/
+!config/*
+!config/*/*
+!config/*/*/*
+!local/
+!resources/
+!scripts/
