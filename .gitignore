@@ -4,6 +4,7 @@
 
 # Except for the these files/directories:
 !.gitignore
+!changelog.txt
 !config/
 !config/*
 !config/*/*
