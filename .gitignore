@@ -12,3 +12,6 @@
 !local/
 !resources/
 !scripts/
+
+/config/wawla.cfg
+/config/waila.cfg
